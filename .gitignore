@@ -1,0 +1,8 @@
+kaggle/run_all.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+out/
+.venv/
+kaggle.json
+.env

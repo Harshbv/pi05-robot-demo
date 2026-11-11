@@ -1,0 +1,262 @@
+[
+ {
+  "tag": "A_same_scene",
+  "task_id": 0,
+  "official_task": "open the middle drawer of the cabinet",
+  "prompt": "open the middle drawer of the cabinet",
+  "trial": 0,
+  "success": true,
+  "steps": 121,
+  "video": "A_same_scene_t0_trial0_open_the_middle_drawer_of_the_cabinet.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 0,
+  "official_task": "open the middle drawer of the cabinet",
+  "prompt": "open the middle drawer of the cabinet",
+  "trial": 1,
+  "success": true,
+  "steps": 113,
+  "video": "A_same_scene_t0_trial1_open_the_middle_drawer_of_the_cabinet.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 1,
+  "official_task": "put the bowl on the stove",
+  "prompt": "put the bowl on the stove",
+  "trial": 0,
+  "success": true,
+  "steps": 83,
+  "video": "A_same_scene_t1_trial0_put_the_bowl_on_the_stove.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 1,
+  "official_task": "put the bowl on the stove",
+  "prompt": "put the bowl on the stove",
+  "trial": 1,
+  "success": true,
+  "steps": 127,
+  "video": "A_same_scene_t1_trial1_put_the_bowl_on_the_stove.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 2,
+  "official_task": "put the wine bottle on top of the cabinet",
+  "prompt": "put the wine bottle on top of the cabinet",
+  "trial": 0,
+  "success": true,
+  "steps": 78,
+  "video": "A_same_scene_t2_trial0_put_the_wine_bottle_on_top_of_the_cabinet.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 2,
+  "official_task": "put the wine bottle on top of the cabinet",
+  "prompt": "put the wine bottle on top of the cabinet",
+  "trial": 1,
+  "success": true,
+  "steps": 86,
+  "video": "A_same_scene_t2_trial1_put_the_wine_bottle_on_top_of_the_cabinet.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 3,
+  "official_task": "open the top drawer and put the bowl inside",
+  "prompt": "open the top drawer and put the bowl inside",
+  "trial": 0,
+  "success": true,
+  "steps": 201,
+  "video": "A_same_scene_t3_trial0_open_the_top_drawer_and_put_the_bowl_inside.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 3,
+  "official_task": "open the top drawer and put the bowl inside",
+  "prompt": "open the top drawer and put the bowl inside",
+  "trial": 1,
+  "success": true,
+  "steps": 181,
+  "video": "A_same_scene_t3_trial1_open_the_top_drawer_and_put_the_bowl_inside.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 4,
+  "official_task": "put the bowl on top of the cabinet",
+  "prompt": "put the bowl on top of the cabinet",
+  "trial": 0,
+  "success": true,
+  "steps": 87,
+  "video": "A_same_scene_t4_trial0_put_the_bowl_on_top_of_the_cabinet.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 4,
+  "official_task": "put the bowl on top of the cabinet",
+  "prompt": "put the bowl on top of the cabinet",
+  "trial": 1,
+  "success": true,
+  "steps": 85,
+  "video": "A_same_scene_t4_trial1_put_the_bowl_on_top_of_the_cabinet.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 5,
+  "official_task": "push the plate to the front of the stove",
+  "prompt": "push the plate to the front of the stove",
+  "trial": 0,
+  "success": true,
+  "steps": 136,
+  "video": "A_same_scene_t5_trial0_push_the_plate_to_the_front_of_the_stove.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 5,
+  "official_task": "push the plate to the front of the stove",
+  "prompt": "push the plate to the front of the stove",
+  "trial": 1,
+  "success": true,
+  "steps": 147,
+  "video": "A_same_scene_t5_trial1_push_the_plate_to_the_front_of_the_stove.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 6,
+  "official_task": "put the cream cheese in the bowl",
+  "prompt": "put the cream cheese in the bowl",
+  "trial": 0,
+  "success": true,
+  "steps": 87,
+  "video": "A_same_scene_t6_trial0_put_the_cream_cheese_in_the_bowl.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 6,
+  "official_task": "put the cream cheese in the bowl",
+  "prompt": "put the cream cheese in the bowl",
+  "trial": 1,
+  "success": true,
+  "steps": 92,
+  "video": "A_same_scene_t6_trial1_put_the_cream_cheese_in_the_bowl.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 7,
+  "official_task": "turn on the stove",
+  "prompt": "turn on the stove",
+  "trial": 0,
+  "success": true,
+  "steps": 91,
+  "video": "A_same_scene_t7_trial0_turn_on_the_stove.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 7,
+  "official_task": "turn on the stove",
+  "prompt": "turn on the stove",
+  "trial": 1,
+  "success": true,
+  "steps": 74,
+  "video": "A_same_scene_t7_trial1_turn_on_the_stove.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 8,
+  "official_task": "put the bowl on the plate",
+  "prompt": "put the bowl on the plate",
+  "trial": 0,
+  "success": true,
+  "steps": 86,
+  "video": "A_same_scene_t8_trial0_put_the_bowl_on_the_plate.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 8,
+  "official_task": "put the bowl on the plate",
+  "prompt": "put the bowl on the plate",
+  "trial": 1,
+  "success": true,
+  "steps": 76,
+  "video": "A_same_scene_t8_trial1_put_the_bowl_on_the_plate.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 9,
+  "official_task": "put the wine bottle on the rack",
+  "prompt": "put the wine bottle on the rack",
+  "trial": 0,
+  "success": true,
+  "steps": 140,
+  "video": "A_same_scene_t9_trial0_put_the_wine_bottle_on_the_rack.mp4"
+ },
+ {
+  "tag": "A_same_scene",
+  "task_id": 9,
+  "official_task": "put the wine bottle on the rack",
+  "prompt": "put the wine bottle on the rack",
+  "trial": 1,
+  "success": true,
+  "steps": 136,
+  "video": "A_same_scene_t9_trial1_put_the_wine_bottle_on_the_rack.mp4"
+ },
+ {
+  "tag": "B_paraphrase",
+  "task_id": 0,
+  "official_task": "open the middle drawer of the cabinet",
+  "prompt": "pull open the cabinet's middle drawer",
+  "trial": 0,
+  "success": true,
+  "steps": 130,
+  "video": "B_paraphrase_t0_trial0_pull_open_the_cabinet's_middle_drawer.mp4"
+ },
+ {
+  "tag": "B_paraphrase",
+  "task_id": 0,
+  "official_task": "open the middle drawer of the cabinet",
+  "prompt": "pull open the cabinet's middle drawer",
+  "trial": 1,
+  "success": true,
+  "steps": 110,
+  "video": "B_paraphrase_t0_trial1_pull_open_the_cabinet's_middle_drawer.mp4"
+ },
+ {
+  "tag": "B_paraphrase",
+  "task_id": 7,
+  "official_task": "turn on the stove",
+  "prompt": "switch the stove on",
+  "trial": 0,
+  "success": true,
+  "steps": 79,
+  "video": "B_paraphrase_t7_trial0_switch_the_stove_on.mp4"
+ },
+ {
+  "tag": "B_paraphrase",
+  "task_id": 7,
+  "official_task": "turn on the stove",
+  "prompt": "switch the stove on",
+  "trial": 1,
+  "success": true,
+  "steps": 94,
+  "video": "B_paraphrase_t7_trial1_switch_the_stove_on.mp4"
+ },
+ {
+  "tag": "B_paraphrase",
+  "task_id": 8,
+  "official_task": "put the bowl on the plate",
+  "prompt": "place the bowl onto the plate",
+  "trial": 0,
+  "success": true,
+  "steps": 76,
+  "video": "B_paraphrase_t8_trial0_place_the_bowl_onto_the_plate.mp4"
+ },
+ {
+  "tag": "B_paraphrase",
+  "task_id": 8,
+  "official_task": "put the bowl on the plate",
+  "prompt": "place the bowl onto the plate",
+  "trial": 1,
+  "success": true,
+  "steps": 75,
+  "video": "B_paraphrase_t8_trial1_place_the_bowl_onto_the_plate.mp4"
+ }
+]
